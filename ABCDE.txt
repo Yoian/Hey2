@@ -1,4 +1,3 @@
-Rama exp
+Rama master
 
-v4
-v3.3 experimental
+Estamos checando los cambios y vinculacion por SSH
